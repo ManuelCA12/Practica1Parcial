@@ -1,0 +1,30 @@
+tfoot tr th{
+background-color: white;} 
+
+
+tfoot tr th{
+    border: 2mm solid blue}
+
+        thead tr td{
+            background-color: green;}
+    
+    
+    thead tr td{
+        border: 3mm solid green;}
+
+    tbody tr th{
+        background-color: white;} 
+    
+    tbody tr th{
+        border: 1mm solid rgb(255, 203, 60);}
+
+        table{
+            border: 1.5mm solid black;
+        }
+
+        thead tr th{
+            background-color: rgb(216, 187, 20);}
+    
+    
+    thead tr th{
+        border: 3mm solid rgb(216, 187, 20);}

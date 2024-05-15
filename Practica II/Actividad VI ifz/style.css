@@ -1,0 +1,58 @@
+.img-1{
+    width: 250px;
+    height: 250 px;
+    margin-right: 100px;
+}
+
+.img-7{
+    width: 250px;
+    height: 250px;
+    margin-right: 60px;
+}
+
+.img-3{
+    width: 300px;
+    height: 300px;
+    margin-right: 60px;
+}
+
+.img-4{
+    width: 250px;
+    height: 250 px;
+    margin-right: 60px;
+}
+
+.img-5{
+    width: 280px;
+    height: 280 px;
+    margin-right: 60px;
+}
+
+.img-6{
+    width: 250px;
+    height: 250px;
+    margin-right: 60px;
+}
+
+.img-8{
+    width: 250px;
+    height: 250 px;
+    margin-right: 60px;
+}
+
+.img-9{
+    width: 250px;
+    height: 250 px;
+    margin-right: 60px;
+}
+
+.contenedor-1{
+    margin-block: 20px;
+}
+
+.Buscar{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 1cm;
+}

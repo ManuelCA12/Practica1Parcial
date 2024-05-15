@@ -1,0 +1,44 @@
+body {
+    background-color: cornflowerblue ;
+    height: 100vh; 
+    width: 100vw;}
+
+    tfoot tr th {
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+    tfoot tr th {
+        font-size: 25px;
+    }
+    
+    thead tr th {
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+    thead tr td{
+        font-size: 15px;
+    }
+    tbody tr td{
+        font-size: 20px;
+    }
+    tbody tr th{
+        font-size: 30px;
+    }
+
+    .color{
+        color: red
+    }
+
+    .colores{
+        color: rgb(0, 26, 255) 
+    }
+
+    .colores {
+        font-family:  system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+    }
+
+
+    tr td {
+        background-color: grey;
+    }
